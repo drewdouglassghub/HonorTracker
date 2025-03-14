@@ -1,0 +1,9 @@
+## Interface: 40402
+## Title: Honor_Counter
+## Notes: Counter to display honor earned in a BG.
+## Version: 0.8
+## Author: Drew Douglass
+## DefaultState: enabled
+
+config.lua
+Honor_Counter.lua

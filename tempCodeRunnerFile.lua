@@ -1,0 +1,1 @@
+local _, _, player = string.find(text, "%[(%a+)%]+%s*create%s%[(%a+)%]")
